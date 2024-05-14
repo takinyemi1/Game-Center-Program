@@ -1,1 +1,9 @@
 # Game-Center-Program
+# The Game Center Program is a Python Graphical User Interface (GUI) project that displays buttons for 5 games: Number Guessing, Rock, Paper, Scissors, Fun Fact Quiz, Create a Shape, and Tic-Tac-Toe.
+As of right now, three games are fully developed: Number Guessing Game, Rock, Paper, Scissors, Fun Fact Quiz, are fully developed, and 2 games are in the process of being revamped: Rock, Paper, Scissors, and Fun Fact Quiz.
+For each button clicked, a new window displaying the game will pop up.
+# Number Guessing: The user will start the game and enter a number to guess. They have 5 trials. If their guess matches the random number, the game will be over, and if it doesn't, they have 4 more trials until the game stops because the five trials are over. The user also has the option to get a hint using the hint button. Future plans for this game include improving the format of the game and message displays.
+# Rock, Paper, Scissors: This game first displays options to play single-player or multiplayer. 
+For the single-player game, the user is playing against the computer and the user must first enter their name. Once that is done, they'll be led to another page where there are picture buttons that they'll be able to click to choose rock, paper, or scissors. There are textboxes for the user and the computer where their plays will be recorded. An option for the computer is generated as soon as an option for the user is chosen. The game will continue until either the user or the computer wins 5 points.
+The multiplayer game is similar to the single-player game; it only differs in the fact that there will be two players playing against each other. Future plans for this include revamping the logic so that the two users playing against each other won't be able to see each other's options.
+# Each game has/will have a separate file in which each will be imported into the main file to enable function for the buttons.
